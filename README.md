@@ -1,1 +1,1 @@
-# user-api-titanic-1
+# ml-serving-api-titanic
